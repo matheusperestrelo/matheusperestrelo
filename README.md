@@ -16,8 +16,8 @@ Atualmente aplico meus aprendizados em **projetos práticos**, explorando també
 ---
 
 ## Ferramentas e Tecnologias
-- **Backend:** PHP (Laravel), MySQL, APIs REST, CRUD  
-- **Dados e IA:** Python, Pandas, NumPy (em aprendizado)  
+- **Backend:** PHP (Laravel e MySQL 
+- **Dados e IA:** Python, NumPy (em aprendizado)  
 - **Versionamento e Colaboração:** Git, GitHub  
 
 ---
