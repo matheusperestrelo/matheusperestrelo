@@ -1,24 +1,12 @@
 # Olá! 👋 Eu sou Matheus Correia
 
-Estudante de **Engenharia da Computação** com experiência em **vendas B2B e operações** e foco em **backend (Laravel + MySQL)**.  
-
-Atualmente aplico meus aprendizados em **projetos práticos**, explorando também **IA e Ciência de Dados**.  
+Estudante de **Engenharia da Computação** com experiência em **vendas B2B e operações** e foco em **backend (Laravel + MySQL)**. 
 
 ---
 
 ## Projetos em destaque
 - **Paybufo Loyalty System**  
   Sistema de fidelidade com cashback e níveis de usuário.  
-
-- **Mini APIs & Scripts de aprendizado**  
-  Pequenos projetos explorando backend e IA.  
-
----
-
-## Ferramentas e Tecnologias
-- **Backend:** PHP (Laravel e MySQL 
-- **Dados e IA:** Python, NumPy (em aprendizado)  
-- **Versionamento e Colaboração:** Git, GitHub  
 
 ---
 
