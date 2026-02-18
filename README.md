@@ -1,6 +1,6 @@
 # Olá! 👋 Eu sou Matheus Correia
 
-Estudante de **Engenharia da Computação** com experiência em **vendas B2B e operações** e foco em **backend (Laravel + MySQL)**. 
+Estudante de **Engenharia da Computação** e foco em **backend. 
 
 ---
 
